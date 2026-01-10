@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\bin\Debug\net9.0\Ejercicio1_Asignaturas.exe
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\bin\Debug\net9.0\Ejercicio1_Asignaturas.deps.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\bin\Debug\net9.0\Ejercicio1_Asignaturas.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\bin\Debug\net9.0\Ejercicio1_Asignaturas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\bin\Debug\net9.0\Ejercicio1_Asignaturas.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\refint\Ejercicio1_Asignaturas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\Ejercicio1_Asignaturas.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio1_Asignaturas\obj\Debug\net9.0\ref\Ejercicio1_Asignaturas.dll
