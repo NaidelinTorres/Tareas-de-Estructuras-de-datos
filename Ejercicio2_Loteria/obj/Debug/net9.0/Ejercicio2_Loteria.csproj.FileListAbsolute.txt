@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\bin\Debug\net9.0\Ejercicio2_Loteria.exe
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\bin\Debug\net9.0\Ejercicio2_Loteria.deps.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\bin\Debug\net9.0\Ejercicio2_Loteria.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\bin\Debug\net9.0\Ejercicio2_Loteria.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\bin\Debug\net9.0\Ejercicio2_Loteria.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\refint\Ejercicio2_Loteria.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\Ejercicio2_Loteria.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio2_Loteria\obj\Debug\net9.0\ref\Ejercicio2_Loteria.dll
