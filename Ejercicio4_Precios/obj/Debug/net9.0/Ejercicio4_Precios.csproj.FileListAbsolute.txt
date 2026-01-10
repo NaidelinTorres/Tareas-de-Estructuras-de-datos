@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\bin\Debug\net9.0\Ejercicio4_Precios.exe
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\bin\Debug\net9.0\Ejercicio4_Precios.deps.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\bin\Debug\net9.0\Ejercicio4_Precios.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\bin\Debug\net9.0\Ejercicio4_Precios.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\bin\Debug\net9.0\Ejercicio4_Precios.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\refint\Ejercicio4_Precios.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\Ejercicio4_Precios.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio4_Precios\obj\Debug\net9.0\ref\Ejercicio4_Precios.dll
