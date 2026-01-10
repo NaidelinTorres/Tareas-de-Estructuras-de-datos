@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\bin\Debug\net9.0\Ejercicio3_Reprobadas.exe
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\bin\Debug\net9.0\Ejercicio3_Reprobadas.deps.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\bin\Debug\net9.0\Ejercicio3_Reprobadas.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\bin\Debug\net9.0\Ejercicio3_Reprobadas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\bin\Debug\net9.0\Ejercicio3_Reprobadas.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\refint\Ejercicio3_Reprobadas.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\Ejercicio3_Reprobadas.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio3_Reprobadas\obj\Debug\net9.0\ref\Ejercicio3_Reprobadas.dll
