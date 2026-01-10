@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\bin\Debug\net9.0\Ejercicio5_Estadistica.exe
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\bin\Debug\net9.0\Ejercicio5_Estadistica.deps.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\bin\Debug\net9.0\Ejercicio5_Estadistica.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\bin\Debug\net9.0\Ejercicio5_Estadistica.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\bin\Debug\net9.0\Ejercicio5_Estadistica.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\refint\Ejercicio5_Estadistica.dll
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.pdb
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\Ejercicio5_Estadistica.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\EjerciciosListasCSharp\Ejercicio5_Estadistica\obj\Debug\net9.0\ref\Ejercicio5_Estadistica.dll
