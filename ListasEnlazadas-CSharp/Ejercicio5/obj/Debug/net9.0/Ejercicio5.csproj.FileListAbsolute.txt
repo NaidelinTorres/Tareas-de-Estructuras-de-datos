@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\bin\Debug\net9.0\Ejercicio5.exe
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\bin\Debug\net9.0\Ejercicio5.deps.json
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\bin\Debug\net9.0\Ejercicio5.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\bin\Debug\net9.0\Ejercicio5.dll
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\bin\Debug\net9.0\Ejercicio5.pdb
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.dll
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\refint\Ejercicio5.dll
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.pdb
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\Ejercicio5.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\ListasEnlazadas-CSharp\Ejercicio5\obj\Debug\net9.0\ref\Ejercicio5.dll
