@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\bin\Debug\net9.0\BalanceChecker.exe
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\bin\Debug\net9.0\BalanceChecker.deps.json
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\bin\Debug\net9.0\BalanceChecker.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\bin\Debug\net9.0\BalanceChecker.dll
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\bin\Debug\net9.0\BalanceChecker.pdb
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.dll
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\refint\BalanceChecker.dll
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.pdb
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\BalanceChecker.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Pilas-CSharp\BalanceChecker\obj\Debug\net9.0\ref\BalanceChecker.dll
